@@ -13,3 +13,9 @@ echo $PATH
 make BR2_EXTERNAL=../ung_apps_external sama7d65_curiosity_mmc_defconfig  
 make  
 cd output/images/  
+
+KSZ9477S EDS2 Daughter Card User Guide:  
+https://ww1.microchip.com/downloads/aemDocuments/documents/UNG/ProductDocuments/UserGuides/KSZ9477S-EDS2-Daughter-Card-User-Guide-DS50003928.pdf  
+
+AN3474 KSZ9477 High-Availability Seamless Redundancy Application Note:  
+https://www.microchip.com/en-us/application-notes/an3474  
